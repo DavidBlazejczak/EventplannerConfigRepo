@@ -7,11 +7,6 @@ management:
      exposure:
        include: "*"
 
-
-spring:
-  application:
-    name: ApiGateway
-
   cloud:
     gateway:
       server:
